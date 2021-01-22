@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00c37fe4-6f88-43ad-be6b-a5480ce704a4" name="Default Changelist" comment="" />
+    <list default="true" id="00c37fe4-6f88-43ad-be6b-a5480ce704a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +17,14 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1mp8BfnCjbwsnc7q5sRqppplMFo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,6 +51,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -53,9 +62,9 @@
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="225" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1610372254270" />
-    <state x="220" y="135" key="SettingsEditor" timestamp="1611237473353">
+    <state x="220" y="135" key="SettingsEditor" timestamp="1611299046053">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state x="220" y="135" key="SettingsEditor/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1611237473353" />
+    <state x="220" y="135" key="SettingsEditor/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1611299046053" />
   </component>
 </project>
